@@ -1,1 +1,4 @@
 this is merge file on master
+
+
+now we pulled this file and we have to merge this it into master-check than master
